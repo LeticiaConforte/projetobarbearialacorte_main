@@ -41,34 +41,6 @@ Cada página tem seu próprio arquivo CSS para estilização personalizada:
   - Alertas e interações com o usuário (usando `SweetAlert`).
 - **Bootstrap**: Layout responsivo e estilização adicional.
 
-## Estrutura de Arquivos
-
-```
-Barbearia-LaCorte/
-├── agendamento.html
-├── index.html
-├── login.html
-├── produtos.html
-├── registro.html
-├── sobrenos.html
-├── css/
-│   ├── homestyle.css
-│   ├── agendamentostyle.css
-│   ├── produtosstyle.css
-│   ├── login.css
-│   ├── registro.css
-│   └── sobrenosstyle.css
-├── js/
-│   └── produtos.js
-├── images/
-│   ├── logo1.png
-│   ├── favicon.ico
-│   └── Produtos/
-│       ├── product1.png
-│       ├── product2.png
-│       └── ...
-```
-
 ## Como Executar
 
 1. Faça o download ou clone este repositório.
